@@ -16,20 +16,21 @@ Selon les défis, les besoins et les opportunités, notre propre rôle émerge e
 
 Notre rêve est de trouver les clés pour aider à créer des futurs souhaitables.
 
-### CONTACT US / CONTACTEZ-NOUS: CONTACT@CHOW-PETIT.NET
-
 ---
 
 ## Documentation we would like to showcase
-[Regie de Santé Commune (FR)](https://pad.lamyne.org/regiedesantecommune)
-[Link](https://pad.lamyne.org/observatory_article_laMYNE)
-[Link](https://pad.lamyne.org/design_de_gouvernance)
-[Link](https://medium.com/lifecaring-life-by-design/)
-[Link](https://pad.lamyne.org/medecine_systemique)
+* [Regie de Santé Commune (FR)](https://pad.lamyne.org/regiedesantecommune)
+* [Interview Obervatoire (EN)](https://pad.lamyne.org/observatory_article_laMYNE)
+* [Adaptocracie (FR)](https://pad.lamyne.org/design_de_gouvernance)
+* [Lifecaring (EN)](https://medium.com/lifecaring-life-by-design/)
+* [Médicine Systémique (FR)](https://pad.lamyne.org/medecine_systemique)
 
 
 ---
 
 _“To be a good human being is to have a kind of openness to the world, an ability to trust uncertain things beyond your own control, that can lead you to be shattered in very extreme circumstances for which you were not to blame. That says something very important about the human condition of the ethical life: that it is based on a trust in the uncertain and on a willingness to be exposed; it’s based on being more like a plant than like a jewel, something rather fragile, but whose very particular beauty is inseparable from its fragility.”_
 
+### CONTACT US / CONTACTEZ-NOUS: CONTACT@CHOW-PETIT.NET
+
+---
 [Link](url) and ![Image](src)
