@@ -33,4 +33,3 @@ _“To be a good human being is to have a kind of openness to the world, an abil
 ### CONTACT US / CONTACTEZ-NOUS: CONTACT@CHOW-PETIT.NET
 
 ---
-[Link](url) and ![Image](src)
