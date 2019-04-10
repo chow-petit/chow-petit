@@ -28,7 +28,7 @@ Notre rêve est de trouver les clés pour aider à créer des futurs souhaitable
 
 ---
 
-### CONTACT US / CONTACTEZ-NOUS: CONTACT@CHOW-PETIT.NET
+### CONTACTEZ-NOUS: CONTACT@CHOW-PETIT.NET
 
 
 ![Image](https://i.imgur.com/zK6k75b.jpg)
