@@ -28,8 +28,13 @@ Notre rêve est de trouver les clés pour aider à créer des futurs souhaitable
 
 ---
 
+### CONTACT US / CONTACTEZ-NOUS: CONTACT@CHOW-PETIT.NET
+
+
+![Image](https://i.imgur.com/zK6k75b.jpg)
+
 _“To be a good human being is to have a kind of openness to the world, an ability to trust uncertain things beyond your own control, that can lead you to be shattered in very extreme circumstances for which you were not to blame. That says something very important about the human condition of the ethical life: that it is based on a trust in the uncertain and on a willingness to be exposed; it’s based on being more like a plant than like a jewel, something rather fragile, but whose very particular beauty is inseparable from its fragility.”_
 
-### CONTACT US / CONTACTEZ-NOUS: CONTACT@CHOW-PETIT.NET
+_“One of the things that makes us human is our internally conflicted nature, confliction, our ambivalence to our own selves. We are constantly wrestling with our own conscience and with a tendency to deviate from social norms in a risky way, and to do wrong, to be selfish. The contest within us, between doing the moral thing, even the heroic thing on one side and doing the selfish, perhaps even criminal thing on the other side, that contest is what gives us such a continuously conflicted nature. If we went and became completely altruistic then we would be like ants. If we went to the opposite extreme and had complete lack of constraint and it was complete individualism, then we would have chaos, we would not have order, the group would dissolve. So we have to be in the middle. This appears to be the human condition.“_
 
 ---
